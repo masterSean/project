@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/masterSean/project.git",
+  "author": "Sean Roger <aseanroger30.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.2",
+    "supertest": "^3.0.0"
+  }
+}
